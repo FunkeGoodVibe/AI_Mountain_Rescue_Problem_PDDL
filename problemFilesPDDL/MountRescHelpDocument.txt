@@ -1,0 +1,17 @@
+1) Paste Optic into C: Drive. 
+2) Type 
+	cd C:\OpticForWindows\
+
+   into CMD prompt
+3) Type 
+	optic-clp.exe -N mountainRescueDomain.pddl mountResc11People.pddl
+
+4) TASK : Understand the data returned by the planner. 
+	  Can also test with the 2people, 5 people problem file. 
+=====
+NOTES: 
+	The DOMAIN describes the core functionality of our program. 
+	The PROBLEM FILE is the problem we're trying to solve. 
+		We're using 11 people, 10 locations, 2 helicopters etc. problem file.
+	
+	
