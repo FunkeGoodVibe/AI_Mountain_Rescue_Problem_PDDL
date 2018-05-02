@@ -12,7 +12,8 @@ Please continue to read deliverable 2, for a more indepth understanding of the t
 mountain sport rose by 48% in 2016, and is at its highest since 2011. It is critical that rescue teams
 reach mountaineers within a reasonable time limits, and safely transport patients to the nearest
 medical centre.
-1) Coming up with an interesting planning domain and instances.
+
+
  Our planner simulates a Flight & Rescue simulator. We would simulate mountain hikers who need
 to be rescued from a mountain. This scenario works well as minimising the rescue time is key. An
 effective planner would save both lives and money. This scenario allows us to experiment with a rich
